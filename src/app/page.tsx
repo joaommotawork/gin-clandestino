@@ -19,9 +19,9 @@ export default function Home() {
 						years.
 					</p>
 					<p>
-						Because we believe that some secrets aren't meant to
+						{`Because we believe that some secrets aren't meant to
 						stay secret forever, we are now sharing our best-kept
-						one.
+						one.`}
 					</p>
 					<p>
 						A meticulous blend of 3 distillations from different
