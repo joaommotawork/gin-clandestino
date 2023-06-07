@@ -3,7 +3,7 @@ import { FaInstagram } from 'react-icons/fa';
 
 export default function Home() {
 	return (
-		<main className='flex flex-col items-center justify-center min-h-screen gap-10 px-10 py-10 bg-black lg:flex-row lg:px-52 lg:gap-0'>
+		<main className='flex flex-col items-center justify-center min-h-screen gap-10 px-10 py-10 text-white bg-black lg:flex-row lg:px-52 lg:gap-0'>
 			<div className='flex flex-col flex-1 gap-5'>
 				<Image
 					className='relative self-center lg:self-start'
